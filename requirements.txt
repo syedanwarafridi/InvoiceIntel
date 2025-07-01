@@ -1,0 +1,11 @@
+streamlit 
+pdfplumber 
+pdf2image 
+pillow
+easyocr 
+paddleocr 
+paddlepaddle
+langchain 
+langgraph 
+langchain-google-genai 
+python-dotenv
